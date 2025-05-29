@@ -9,7 +9,9 @@
     }
 
      .content {
-      display: none;
+          display:none;
+      
+      display: block;
       margin-top: 15px;
       padding: 10px;
       border: 1px solid #4CAF50;

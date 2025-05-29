@@ -1,23 +1,23 @@
 function showNews() {
       var news = document.getElementById('newsSection');
-      news.style.display = 'block';
+      news.style.display = 'flex';
     }
     function content() {
       var news = document.getElementById('fu');
-      news.style.display = 'block';
+      news.style.display = 'flex';
     }
     function conten(){
       var news = document.getElementById("ku");
-      news.style.display = 'block';
+      news.style.display = 'flex';
     }
      function conte(){
       var news = document.getElementById("nn");
-      news.style.display = 'block';
+      news.style.display = 'flex';
     }
 
       function cont(){
       var news = document.getElementById("jaja");
-      news.style.display = 'block';
+      news.style.display = 'flex';
     }
 
     function naz(){
@@ -37,7 +37,7 @@ function showNews() {
 
 function Showform(){
   var form = document.getElementById("form");
-  form.style.display = 'block';
+  form.style.display = 'flex';
 }
 
 function Showlogi(){
